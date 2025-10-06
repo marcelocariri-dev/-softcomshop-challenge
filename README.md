@@ -1,4 +1,5 @@
-#Minha Apresentação
+# Minha Apresentação
+
 Meu nome é Marcelo cariri e acabei de me formar em análise e desenvolvimento de sistemas, iniciei minha trajetoria com programação
 aprendendo os princípios basilares com JAVA, 
 aprendi OO:
@@ -9,13 +10,13 @@ Agora no período pós faculdaade iniciei minha trajetoria com API REST Utilizan
 Iniciei minha trajetoria de estudos com Laravel.
 
 
-#PROJETOS
+# PROJETOS
 
-#API para cadastro de funcionários - C#
+# API para cadastro de funcionários - C#
 Api REST DE estudo com ASP.NET/EF CORE - WEB API - controllers
 https://github.com/marcelocariri-dev/APICOM.git
 
-#Projeto de ERP para clínicas  c#
+# Projeto de ERP para clínicas  c#
 API REST- ASP.NET - WEB API - EF - projeto em desenvolvimento
 https://github.com/marcelocariri-dev/Projeto-ERP.git
 
@@ -23,18 +24,18 @@ https://github.com/marcelocariri-dev/Projeto-ERP.git
 
 CRUD SEM EF https://github.com/marcelocariri-dev/C-ESTACIONAMENTO.git
 
-#PROJETOS - REACT.JS
+# PROJETOS - REACT.JS
 PROJETOS ESTUDOS - projeto frontend jogo de palavras e outros
 https://github.com/marcelocariri-dev/REACTPS.git
 
 
-#Projeto conclusão react.js
+# Projeto conclusão react.js
 Conclusão de curso - sistema (front) para consultar notas
 https://github.com/marcelocariri-dev/PROJETO_CONCLUS-O.git
 
-#CONVERTER VIDEOS DO YOUTUBE EM AUDIO - express.js
+# CONVERTER VIDEOS DO YOUTUBE EM AUDIO - express.js
 
 https://github.com/marcelocariri-dev/youtubedownload.git
 
-#Frontend de um protipo de um ERP REACT.JS 
+# Frontend de um protipo de um ERP REACT.JS 
 https://github.com/marcelocariri-dev/Projeto-ERP.git
