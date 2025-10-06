@@ -4,8 +4,8 @@ Meu nome é Marcelo cariri e acabei de me formar em análise e desenvolvimento d
 aprendendo os princípios basilares com JAVA, 
 aprendi OO: herança, polimorfismo, encapsulamento.
 Fiz projetos na faculadade com React.js e cursos em REACT.
-Tive contato com php puro.
-Agora no período pós faculdaade iniciei minha trajetoria com API REST Utilizando ASP.NET /EF CORE -migrations PARA gereciamento dos dados.
+Tive contato com PHP puro.
+Agora no período pós faculdade iniciei minha trajetoria com API REST Utilizando ASP.NET /EF CORE -migrations PARA gereciamento dos dados.
 Iniciei minha trajetoria de estudos com Laravel.
 
 
