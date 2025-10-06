@@ -2,10 +2,9 @@
 
 Meu nome é Marcelo cariri e acabei de me formar em análise e desenvolvimento de sistemas, iniciei minha trajetoria com programação
 aprendendo os princípios basilares com JAVA, 
-aprendi OO:
-herança, polimorfismo, encapsulamento.
+aprendi OO: herança, polimorfismo, encapsulamento.
 Fiz projetos na faculadade com React.js e cursos em REACT.
-tive contato com php puro.
+Tive contato com php puro.
 Agora no período pós faculdaade iniciei minha trajetoria com API REST Utilizando ASP.NET /EF CORE -migrations PARA gereciamento dos dados.
 Iniciei minha trajetoria de estudos com Laravel.
 
@@ -18,7 +17,7 @@ https://github.com/marcelocariri-dev/APICOM.git
 
 # Projeto de ERP para clínicas - C#
 API REST- ASP.NET - WEB API - EF - projeto em desenvolvimento
-https://github.com/marcelocariri-dev/Projeto-ERP.git
+https://github.com/marcelocariri-dev/ClinicaApp.git
 
 # C# CRUDS
 
