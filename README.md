@@ -16,7 +16,7 @@ Iniciei minha trajetoria de estudos com Laravel.
 Api REST DE estudo com ASP.NET/EF CORE - WEB API - controllers
 https://github.com/marcelocariri-dev/APICOM.git
 
-# Projeto de ERP para clínicas  c#
+# Projeto de ERP para clínicas - C#
 API REST- ASP.NET - WEB API - EF - projeto em desenvolvimento
 https://github.com/marcelocariri-dev/Projeto-ERP.git
 
@@ -24,18 +24,18 @@ https://github.com/marcelocariri-dev/Projeto-ERP.git
 
 CRUD SEM EF https://github.com/marcelocariri-dev/C-ESTACIONAMENTO.git
 
-# PROJETOS - REACT.JS
+# Projetos - React.JS
 PROJETOS ESTUDOS - projeto frontend jogo de palavras e outros
 https://github.com/marcelocariri-dev/REACTPS.git
 
 
-# Projeto conclusão react.js
+# Projeto conclusão - React.js
 Conclusão de curso - sistema (front) para consultar notas
 https://github.com/marcelocariri-dev/PROJETO_CONCLUS-O.git
 
-# CONVERTER VIDEOS DO YOUTUBE EM AUDIO - express.js
+# Conversor videos do youtube em áudio - Express.js
 
 https://github.com/marcelocariri-dev/youtubedownload.git
 
-# Frontend de um protipo de um ERP REACT.JS 
+# Frontend de um protipo de um ERP - React.JS 
 https://github.com/marcelocariri-dev/Projeto-ERP.git
