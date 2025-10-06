@@ -6,7 +6,7 @@ aprendi OO:
 herança, polimorfismo, encapsulamento.
 Fiz projetos na faculadade com React.js e cursos em REACT.
 tive contato com php puro.
-Agora no período pós faculdaade iniciei minha trajetoria com API REST Utilizando ASP.NET /EF CORE -migrations PARA gereciamento dos dados
+Agora no período pós faculdaade iniciei minha trajetoria com API REST Utilizando ASP.NET /EF CORE -migrations PARA gereciamento dos dados.
 Iniciei minha trajetoria de estudos com Laravel.
 
 
